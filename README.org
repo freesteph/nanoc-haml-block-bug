@@ -1,0 +1,5 @@
+* nanoc-haml
+** Description
+Cannot figure out why nanoc won't compile these partials.
+
+** Result
